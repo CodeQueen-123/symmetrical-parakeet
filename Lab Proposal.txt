@@ -1,0 +1,40 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+I don’t know maybe like provide healthy meals and other products.
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A website that sells healthy meals  
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Allow user to sign up and login, place that they could save favorite meals and etc.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+No, I am not doing it with another course.
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+I am doing it alone.
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I don’t know how it will go but I think I will learn how the websites are working because its always a question for me how some one can go in a website and buy something and add it to card and etc.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Before the project I learned its not as it seems its always scary, but it just needs time.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope to learn more about websites and create different types of it.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I think I really need to learn many skills I have to work on the beginning of programs because Its my first time learning things related to computer.
+
