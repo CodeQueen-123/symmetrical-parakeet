@@ -6,8 +6,9 @@ TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+TODO No I am doing it alone.
 
 ## Do you have any questions of your own?
 
-TODO
+TODO No
+
